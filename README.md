@@ -3,12 +3,7 @@
 ## enviroment and platform
     Some works on features used Google Colab.
     traing platform using AliCloud, with Nvidia A10 GPU
-    enviroment is the same as ./enviroment.yml which provided by the author of Struct2GO
-
-## results 
-    some traing and test log could be found in the ./results/log/, but some of them are lost, because I 
-    own AliCloud the fee, before I download all the logs, they deleted my workspace. Sorry for that.
-    But fortunately, I have downloaded all the test data, you can also just check them at ./results/best_models/bestmodel_test, and best models at ./results/best_models.
+    enviroment is the same as ./enviroment.yml
 
 ## key steps
     1. Process the struct data(pdb files) using ./data_processing/predicted_protein_struct2map.py
